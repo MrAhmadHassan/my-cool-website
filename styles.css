@@ -68,17 +68,13 @@ header p {
 /* Section Styles */
 section {
     margin: 40px auto;
-    padding: 20px;
-    background-color: #2c2c2c; /* Darker section background */
+    padding: 0 20px 20px 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(255, 215, 0, 0.3); /* Gold shadow for sections */
     max-width: 800px; /* Center the content */
 }
 
 /* About Section */
-#about {
-   background-color: #3b3b3b; /* Slightly lighter for contrast */
-}
+
 
 #about h2 {
    color: #ffd700; /* Gold color for headings */
